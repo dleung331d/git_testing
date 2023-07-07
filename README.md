@@ -6,3 +6,4 @@ Master commit 3
 Master commit 4
 Local changes 4
 Master commit 5
+Local change 6
